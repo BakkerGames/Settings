@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Settings>
+  <LastToPath>\Arena_Scripts\Classes Advantage;\Arena_Scripts\Classes IDR;\Arena_Scripts\Classes NoteDiary;\Arena_Scripts\Classes IDRIS Advantage;\Arena_Scripts\Classes IDRIS_Extracts;\Arena_Scripts\Classes UserRequest</LastToPath>
+  <LastFromPath>\Arena_Scripts\Tables Advantage;\Arena_Scripts\Tables IDR;\Arena_Scripts\Tables NoteDiary;\Arena_Scripts\Tables IDRIS Advantage;\Arena_Scripts\Tables IDRIS_Extracts;\Arena_Scripts\Tables UserRequest</LastFromPath>
+  <LastDrive>C:</LastDrive>
+  <CallUpgrade>False</CallUpgrade>
+  <ApplicationList>Advantage;IDR;NoteDiary;IDRIS;IDRIS_Extracts;UserRequest</ApplicationList>
+  <LastApp>Advantage</LastApp>
+</Settings>

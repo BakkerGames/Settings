@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Settings>
+  <DetailsSplitterDistance>0</DetailsSplitterDistance>
+  <StartingWidth>820</StartingWidth>
+  <PreferencesSplitterDistance>0</PreferencesSplitterDistance>
+  <CallUpgrade>True</CallUpgrade>
+  <StartingHeight>617</StartingHeight>
+  <ShowOnMainScreen_MenuPreferences>False</ShowOnMainScreen_MenuPreferences>
+  <ShowOnMainScreen_ApplicationSecurity>False</ShowOnMainScreen_ApplicationSecurity>
+  <ShowOnMainScreen_MenuMaintenance>False</ShowOnMainScreen_MenuMaintenance>
+  <MaintenanceSplitterDistance>0</MaintenanceSplitterDistance>
+</Settings>

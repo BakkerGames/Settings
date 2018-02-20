@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Settings>
+  <EnterStartsSearch>True</EnterStartsSearch>
+  <TypeOfCoverage>L</TypeOfCoverage>
+  <FormMaximized>False</FormMaximized>
+  <FormWidth>0</FormWidth>
+  <StretchResults>True</StretchResults>
+  <CallUpgrade>False</CallUpgrade>
+  <FormHeight>0</FormHeight>
+</Settings>

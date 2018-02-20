@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Settings>
+  <AllPaymentsFormHeight>0</AllPaymentsFormHeight>
+  <FormMaximized>False</FormMaximized>
+  <DetailsFormHeight>0</DetailsFormHeight>
+  <AllPaymentsFormMaximized>False</AllPaymentsFormMaximized>
+  <DetailsFormWidth>0</DetailsFormWidth>
+  <AllPaymentsStretchResults>False</AllPaymentsStretchResults>
+  <CallUpgrade>False</CallUpgrade>
+  <AllPaymentsFormWidth>0</AllPaymentsFormWidth>
+  <DetailsFormMaximized>False</DetailsFormMaximized>
+  <FormWidth>784</FormWidth>
+  <FinancialsStretchResults>False</FinancialsStretchResults>
+  <FormHeight>616</FormHeight>
+</Settings>

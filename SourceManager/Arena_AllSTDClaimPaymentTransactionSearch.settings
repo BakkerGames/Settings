@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Settings>
+  <EnterStartsSearch>True</EnterStartsSearch>
+  <FormHeight>0</FormHeight>
+  <FormMaximized>False</FormMaximized>
+  <FormWidth>0</FormWidth>
+  <TypeOfCoverage>
+  </TypeOfCoverage>
+  <StretchResults>False</StretchResults>
+  <CallUpgrade>False</CallUpgrade>
+  <ClaimSystemID>
+  </ClaimSystemID>
+</Settings>

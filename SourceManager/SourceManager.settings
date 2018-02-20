@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Settings>
+  <OptionIgnoreVersions>False</OptionIgnoreVersions>
+  <AppPathExtra>Arena_Scripts=C:\Arena_Scripts|M:\Arena_Scripts|Y:\Arena_Scripts|E:\TransferFiles\Arena_Scripts|Y:\TransferFiles\Arena_Scripts|N:\Arena_Scripts|P:\Arena_Scripts|C:\Arena2_Scripts;
+Arena_NEW=C:\Arena_NEW|Y:\Arena_NEW|E:\TransferFiles\Arena_NEW|Y:\TransferFiles\Arena_NEW|M:\Arena_NEW;
+Utilities=C:\Utilities|Y:\Utilities|E:\TransferFiles\Utilities|Y:\TransferFiles\Utilities|P:\Utilities;
+Arena=C:\Arena|Y:\Arena|Y:\TransferFiles\Arena|E:\TransferFiles\Arena|M:\Arena|N:\Arena|P:\Arena|Y:\Arena_Local|C:\Arena_BeforeGit|C:\Arena_OldV1|C:\Users\sbakker.DHPTL\Downloads\Arena;
+Servers=Y:\Servers|P:\Servers;
+LTD Taxes=C:\Arena_Scripts\LTD Taxes|Y:\Arena_Scripts\LTD Taxes|E:\TransferFiles\Arena_Scripts\LTD Taxes|Y:\TransferFiles\Arena_Scripts\LTD Taxes|X:\PROJECTS\Arena LTD Taxes\Scripts|M:\Arena_Scripts\LTD Taxes;
+Database_Projects=C:\Database_Projects|Y:\Database_Projects|Y:\TransferFiles\Database_Projects|E:\TransferFiles\Database_Projects|M:\Database_Projects;
+Advantage=C:\Advantage\Source|Y:\Advantage\Source|M:\Advantage\Source|N:\Advantage\Source|C:\Advantage_Training\Source|\\svrgit\VSS\Production\Advantage\Source|N:\Advantage_Training\Source|E:\TransferFiles\Advantage\Source|P:\Advantage\Source (Old);
+IDRIS=C:\IDRIS\LOCAL\CADOLSRC\DEVICE00|Y:\IDRIS\LOCAL\CADOLSRC\DEVICE00|\\svrgit\VSS\Production\IDRIS\Source\Cadol\DEVICE00|\\svrtest2\idris\TEST\CADOLSRC\DEVICE00|\\svrtest2\idris\ACCEPT\CADOLSRC\DEVICE00;
+Arena2=C:\Arena2\Source|E:\TransferFiles\Arena2\Source|Y:\Arena2\Source|Y:\TransferFiles\Arena2\Source|M:\Arena2\Source|C:\Arena\Source;
+Arena2_Scripts=C:\Arena2_Scripts|E:\TransferFiles\Arena2_Scripts|y:\TransferFiles\Arena2_Scripts|Y:\Arena2_Scripts|M:\Arena2_Scripts;
+Arena2_Templates=C:\Arena2_Templates|Y:\Arena2_Templates|M:\Arena2_Templates;
+Arena_LAE=C:\Arena_LAE|E:\TransferFiles\Arena_LAE;
+Common=C:\Arena2\Source\Common|C:\Utilities\Source\Common|C:\Arena\Source\Common;
+</AppPathExtra>
+  <DiffFont>Proportional</DiffFont>
+  <UseExternalCompare>True</UseExternalCompare>
+  <IgnoreMissingDirectories>False</IgnoreMissingDirectories>
+  <LastFromDir>C:\Users\sbakker.DHPTL\Downloads\Arena</LastFromDir>
+  <OptionIgnoreSpaces>False</OptionIgnoreSpaces>
+  <LastAppName>Arena</LastAppName>
+  <CallUpgrade>False</CallUpgrade>
+  <IncludeTestProjects>False</IncludeTestProjects>
+  <FormDiffMaximized>False</FormDiffMaximized>
+  <QuickCompareBinary>False</QuickCompareBinary>
+  <ExternalCompareApp>"C:\Program Files (x86)\WinMerge\WinMergeU.exe" /e /u /maximize</ExternalCompareApp>
+  <AltUserName>
+  </AltUserName>
+  <LastToDir>P:\Arena</LastToDir>
+  <ExcludeFileList>
+  </ExcludeFileList>
+</Settings>

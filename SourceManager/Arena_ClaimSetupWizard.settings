@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Settings>
+  <DependentsStretchResults>False</DependentsStretchResults>
+  <WarningsStretchResults>False</WarningsStretchResults>
+  <CallUpgrade>False</CallUpgrade>
+  <ClaimSearchStretchResults>False</ClaimSearchStretchResults>
+  <BenefitAdjustmentsStretchResults>False</BenefitAdjustmentsStretchResults>
+  <LastBAID>ZZSB</LastBAID>
+  <EmployerSearchStretchResults>True</EmployerSearchStretchResults>
+</Settings>

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Settings>
+  <CPHDetailStretchResults>False</CPHDetailStretchResults>
+  <PaymentHistoryDetailStretchResults>False</PaymentHistoryDetailStretchResults>
+  <CWDateMode>1</CWDateMode>
+  <DetailStretchResults>True</DetailStretchResults>
+  <ClaimPaymentStretchResults>False</ClaimPaymentStretchResults>
+  <DetailAscending>True</DetailAscending>
+  <OPStretchResults>False</OPStretchResults>
+  <ClaimPaymentDateMode>0</ClaimPaymentDateMode>
+  <FormMaximized>True</FormMaximized>
+  <LAEDateMode>0</LAEDateMode>
+  <CWAscending>True</CWAscending>
+  <CallUpgrade>False</CallUpgrade>
+  <CWStretchResults>True</CWStretchResults>
+  <CWDetailStretchResults>False</CWDetailStretchResults>
+  <ReimbStretchResults>False</ReimbStretchResults>
+  <ReimbDateMode>1</ReimbDateMode>
+  <LAEStretchResults>False</LAEStretchResults>
+  <LAEAscending>True</LAEAscending>
+  <ClaimPaymentAscending>True</ClaimPaymentAscending>
+  <OPAscending>True</OPAscending>
+  <ReimbAscending>True</ReimbAscending>
+  <DetailDateMode>0</DetailDateMode>
+  <OPDateMode>1</OPDateMode>
+</Settings>
